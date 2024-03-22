@@ -1,7 +1,7 @@
 
 Java for Software Testing Professionals - Basics to Advanced
 
-Section 1: Introduction
+## Section 1: Introduction
 
 1. Course Introduction
 2. Introduction to JAVA
@@ -11,7 +11,7 @@ Quiz 1: Java intro
 5. Difference between JDK, JRE and JVM
 Quiz 2: JVM
 
-Section 2: JAVA Programming Basics
+## Section 2: JAVA Programming Basics
 7. Writing First JAVA program
 7Coding Exercise 1: First Java Program
 
@@ -32,7 +32,7 @@ Section 2: JAVA Programming Basics
 
 13. String
     
-Section 3: Operators
+## Section 3: Operators
 
 15. Arithmetic Operators
 4
@@ -43,7 +43,7 @@ Section 3: Operators
 17. Increment operator
 3
 
-Section 4: Control-Flow Statements
+## Section 4: Control-Flow Statements
 
 18. Logical Operator
 5
@@ -63,7 +63,7 @@ Section 4: Control-Flow Statements
 23. Example program
 7
 
-Section 5: Looping in JAVA
+## Section 5: Looping in JAVA
 
 24. forLoop
 11
@@ -83,7 +83,7 @@ Section 5: Looping in JAVA
 29. Nested-loop
 4
 
-Section 6: Object Oriented Programming (OOP) in JAVA
+## Section 6: Object Oriented Programming (OOP) in JAVA
 
 30. Objects
 4
@@ -108,7 +108,7 @@ Assignment 1: Objects Example
 36. Static-Method
 5
 
-Section 7: Collections
+## Section 7: Collections
 
 37. Introduction to Array-List
 15
@@ -122,7 +122,7 @@ Section 7: Collections
 40. HashMap
 11
 
-Section 8: Access Modifiers
+## Section 8: Access Modifiers
 
 41. Understanding the concept of package
 7
@@ -130,7 +130,7 @@ Section 8: Access Modifiers
 42. Default access modifier
 8
 
-Section 9: Polymorphism
+## Section 9: Polymorphism
 
 43. private access modifier
 6
@@ -150,7 +150,7 @@ Section 9: Polymorphism
 48. Method - OverRiding
 5
 
-Section 10: super - keyword
+## Section 10: super - keyword
 
 49. super - part 1
 5
@@ -161,7 +161,7 @@ Section 10: super - keyword
 51. super - part 3
 6
 
-Section 11: Good to know topics
+## Section 11: Good to know topics
 
 
 50. this keyword
@@ -173,7 +173,7 @@ Section 11: Good to know topics
 52. Encapsulation
 7
 
-Section 12: Abstraction
+## Section 12: Abstraction
 
 53. Abstract class and method
 10
@@ -189,7 +189,7 @@ Section 13: Regular Expression
 56. Implementation of Regular Expression in Java programg
 10
 
-Section 14: Exception Handling
+## Section 14: Exception Handling
 
 57. Understanding Exceptions
 8
@@ -203,7 +203,7 @@ Section 14: Exception Handling
 60. Finally Block
 8
 
-Section 15: Input/Output Operations
+## Section 15: Input/Output Operations
 
 61. Creating File
 10
