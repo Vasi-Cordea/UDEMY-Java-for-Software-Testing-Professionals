@@ -1,5 +1,5 @@
 
-### Java for Software Testing Professionals - Basics to Advanced
+# Java for Software Testing Professionals - Basics to Advanced
 
 ## Section 1: Introduction
 
