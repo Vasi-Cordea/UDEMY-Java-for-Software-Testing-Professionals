@@ -31,120 +31,149 @@ Section 2: JAVA Programming Basics
 7
 
 13. String
+    
 Section 3: Operators
 
-14. Arithmetic Operators
+15. Arithmetic Operators
 4
 
-15. Assignment Operator
+16. Assignment Operator
 8
 
-16. Increment operator
+17. Increment operator
 3
 
-17. Logical Operator
+Section 4: Control-Flow Statements
+
+18. Logical Operator
 5
 
-18. if-else
+19. if-else
 7
 
-19. nested if
+20. nested if
 8
 
-20. if-else-if
+21. if-else-if
 4
 
-21. switch-case
+22. switch-case
 5
 
-22. Example program
+23. Example program
 7
 
-23. forLoop
+Section 5: Looping in JAVA
+
+24. forLoop
 11
 
-24. While Loop
+25. While Loop
 8
 
-25. do-while Loop
+26. do-while Loop
 5
 
-26. Continue Statement
+27. Continue Statement
 6
 
-27. Break Statement
+28. Break Statement
 4
 
-28. Nested-loop
+29. Nested-loop
 4
 
-29. Objects
+Section 6: Object Oriented Programming (OOP) in JAVA
+
+30. Objects
 4
-Start
+
 Assignment 1: Objects Example
 
-30. Class
+31. Class
 9
 
-31. Methods- Declaration, Parameterization, Returning Value
+32. Methods- Declaration, Parameterization, Returning Value
 25
 
-32. Working with object with Real Life Sceanario
+33. Working with object with Real Life Sceanario
 14
 
-33. Constructor
+34. Constructor
 11
 
-34. Static-Variable
+35. Static-Variable
 15
 
-35. Static-Method
+36. Static-Method
 5
 
-36. Introduction to Array-List
+Section 7: Collections
+
+37. Introduction to Array-List
 15
 
-37. Working with Array-List
+38. Working with Array-List
 10
 
-38. Basic Array
+39. Basic Array
 2
 
-39. HashMap
+40. HashMap
 11
 
-40. Understanding the concept of package
+Section 8: Access Modifiers
+
+41. Understanding the concept of package
 7
 
-41. Default access modifier
+42. Default access modifier
 8
 
-42. private access modifier
+Section 9: Polymorphism
+
+43. private access modifier
 6
 
-43. Inheritance in Java
+44. Inheritance in Java
 9
 
-44. Protected and Public access modifier
+45. Protected and Public access modifier
 8
 
-45. Introduction to Polymorphism
+46. Introduction to Polymorphism
 2
 
-46. Method - Overloading
+47. Method - Overloading
 6
 
-47. Method - OverRiding
+48. Method - OverRiding
 5
 
-48. super - part 1
+Section 10: super - keyword
+
+49. super - part 1
 5
 
-49. super - part 2
+50. super - part 2
 2
 
-50. super - part 3
+51. super - part 3
 6
+
+Section 11: Good to know topics
+
+
+50. this keyword
+5
+
+51. final keyword
+7
+
+52. Encapsulation
+7
+
+Section 12: Abstraction
 
 53. Abstract class and method
 10
@@ -155,8 +184,12 @@ Assignment 1: Objects Example
 55. Understanding Regular Expression (regex)
 16
 
+Section 13: Regular Expression
+
 56. Implementation of Regular Expression in Java programg
 10
+
+Section 14: Exception Handling
 
 57. Understanding Exceptions
 8
@@ -169,6 +202,8 @@ Assignment 1: Objects Example
 
 60. Finally Block
 8
+
+Section 15: Input/Output Operations
 
 61. Creating File
 10
