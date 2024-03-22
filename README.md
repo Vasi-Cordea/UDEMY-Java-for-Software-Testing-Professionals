@@ -218,23 +218,3 @@ Section 15: Input/Output Operations
 18
 
 65. Write Data to Microsoft Excel Application
-8
-Teach the world online
-Create an online video course, reach students across the globe, and earn money
-Top companies choose Udemy Business to build in-demand career skills.
-NasdaqVolkswagenBoxNetAppEventbrite
-Udemy Business
-Teach on Udemy
-Get the app
-About us
-Contact us
-Careers
-Blog
-Help and Support
-Affiliate
-Investors
-Terms
-Privacy policy
-Sitemap
-Accessibility statement
-© 2024 Udemy, Inc.
