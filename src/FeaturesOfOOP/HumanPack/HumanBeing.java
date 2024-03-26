@@ -1,6 +1,6 @@
 package FeaturesOfOOP.HumanPack;
 
-import FeaturesOfOOP.math.LivingBeing;
+import FeaturesOfOOP.LivingPack.LivingBeing;
 
 public class HumanBeing extends LivingBeing {
     public String hands;

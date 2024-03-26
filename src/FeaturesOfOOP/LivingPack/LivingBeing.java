@@ -1,4 +1,4 @@
-package FeaturesOfOOP.math;
+package FeaturesOfOOP.LivingPack;
 
 public class LivingBeing {
     protected String eyes = "twoeyes";
