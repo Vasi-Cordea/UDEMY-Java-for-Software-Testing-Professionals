@@ -5,7 +5,7 @@ import FeaturesOfOOP.LivingPack.LivingBeing;
 public class HumanBeingOvr extends LivingBeing {
     // same method name as in LivBeingOver
     protected void run() { // over - ridden class
-        System.out.println("I use two legs only");
+        System.out.println("I use two legs only, overriding method");
 
     }
 
