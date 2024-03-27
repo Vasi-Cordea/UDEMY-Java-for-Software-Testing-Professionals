@@ -1,3 +1,5 @@
+![Java for software testing professionals certification](https://github.com/Vasi-Cordea/UDEMY-Java-for-Software-Testing-Professionals/assets/150058199/192a14a0-9239-4629-bf77-9707a71ab8c2)
+
 Udemy course content:
 ## Java for Software Testing Professionals - Basics to Advanced
 
